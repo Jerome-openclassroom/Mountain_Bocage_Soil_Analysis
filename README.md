@@ -111,41 +111,41 @@ Local fruit trees (chestnut, rustic apple) also suited due to stable structure a
 
 - 📁 [**color/**](color/)
   - [color_chart.png](color/color_chart.png) — 🎨 *Simplified Munsell color chart for reference*
-  - [soil_color.jpg](color/soil_color.jpg) — 🏷️ *Photo of dry soil, natural color for pedological description*
+  - [soil_color.jpg](color/soil_color.JPG) — 🏷️ *Photo of dry soil, natural color for pedological description*
 
 - 📁 [**garden/**](garden/)
   - [garden_1.jpg](garden/garden_1.jpg) — 🌿 *General view of the garden (southwest side)*
   - [garden_2.jpg](garden/garden_2.jpg) — 🌿 *Second angle of the garden, showing crop diversity*
 
 - 📁 [**H2O2_Acid_stability/**](H2O2_Acid_stability/)
-  - [organic_carbonates_test.jpg](H2O2_Acid_stability/organic_carbonates_test.jpg) — ⚗️ *Acid test (carbonates) & H₂O₂ test (oxidizable organic matter)*
-  - [structural_stability.jpg](H2O2_Acid_stability/structural_stability.jpg) — 💧 *Structural stability test (aggregate intact in water)*
+  - [organic_carbonates_test.jpg](H2O2_Acid_stability/organic_carbonates_test.JPG) — ⚗️ *Acid test (carbonates) & H₂O₂ test (oxidizable organic matter)*
+  - [structural_stability.jpg](H2O2_Acid_stability/structural_stability.JPG) — 💧 *Structural stability test (aggregate intact in water)*
 
 - 📁 [**nitrates_hardness/**](nitrates_hardness/)
-  - [hardness_strip.jpg](nitrates_hardness/hardness_strip.jpg) — 💦 *Total hardness strip (GH)*
-  - [nitrates_strip.jpg](nitrates_hardness/nitrates_strip.jpg) — 💧 *Nitrates strip (NO₃⁻) for filtrate*
+  - [hardness_strip.jpg](nitrates_hardness/hardness_strip.JPG) — 💦 *Total hardness strip (GH)*
+  - [nitrates_strip.jpg](nitrates_hardness/nitrates_strip.JPG) — 💧 *Nitrates strip (NO₃⁻) for filtrate*
 
 - 📁 [**pH_test/**](pH_test/)
-  - [pH_test.jpg](pH_test/pH_test.jpg) — ⚙️ *pH measurement setup: beaker, stir bar, agitation*
+  - [pH_test.jpg](pH_test/pH_test.JPG) — ⚙️ *pH measurement setup: beaker, stir bar, agitation*
 
 - 📁 [**site_location/**](site_location/)
-  - [East.jpg](site_location/East.jpg) — 🗺️ *Topographic profile to the east (graph)*
-  - [East_real.jpg](site_location/East_real.jpg) — 🏞️ *Actual photo of the east-facing slope*
+  - [East.jpg](site_location/East.png) — 🗺️ *Topographic profile to the east (graph)*
+  - [East_real.jpg](site_location/East_real.JPG) — 🏞️ *Actual photo of the east-facing slope*
   - [general_view.jpg](site_location/general_view.jpg) — 🌍 *3D view of the site (Google Earth)*
-  - [North_East.jpg](site_location/North_East.jpg) — 🗺️ *Topographic profile to the northeast (graph)*
+  - [North_East.jpg](site_location/North_East.png) — 🗺️ *Topographic profile to the northeast (graph)*
 
 - 📁 [**stain_test/**](stain_test/)
   - [1_12mL.jpg](stain_test/1_12mL.jpg) — 🧪 *Methylene blue spot test on filter paper (1–12 mL total)*
   - [13_20mL.jpg](stain_test/13_20mL.jpg) — 🧪 *Methylene blue spot test on filter paper (13–20 mL total)*
-  - [burette_stirrer.jpg](stain_test/burette_stirrer.jpg) — ⚙️ *Burette + magnetic stirrer setup*
-  - [magnetic_stirrer.jpg](stain_test/magnetic_stirrer.jpg) — ⚙️ *Stirring test without burette*
-  - [drying_sample.jpg](stain_test/drying_sample.jpg) — ☀️ *Sieved soil sample drying*
+  - [burette_stirrer.jpg](stain_test/burette_stirrer.JPG) — ⚙️ *Burette + magnetic stirrer setup*
+  - [magnetic_stirrer.jpg](stain_test/magnetic_stirrer.JPG) — ⚙️ *Stirring test without burette*
+  - [drying_sample.jpg](stain_test/drying_sample.JPG) — ☀️ *Sieved soil sample drying*
 
 - 📁 [**texture_test/**](texture_test/)
-  - [coarse_sand.jpg](texture_test/coarse_sand.jpg) — 🧱 *Tube with coarse sand fraction and visible ferric colloids*
-  - [sieved_soil_volume.jpg](texture_test/sieved_soil_volume.jpg) — 📏 *Measured volume of fine soil after sieving*
+  - [coarse_sand.jpg](texture_test/coarse_sand.JPG) — 🧱 *Tube with coarse sand fraction and visible ferric colloids*
+  - [sieved_soil_volume.jpg](texture_test/sieved_soil_volume.JPG) — 📏 *Measured volume of fine soil after sieving*
   - [soil_stones_ratio.jpg](texture_test/soil_stones_ratio.jpg) — 📊 *Pie chart: fine soil vs stones ratio (>2mm)*
-  - [stones_volume_before.jpg](texture_test/stones_volume_before.jpg) — ⚖️ *Stone volume before immersion (raw measure)*
-  - [stones_volume_after.jpg](texture_test/stones_volume_after.jpg) — ⚖️ *Stone volume after immersion (displaced volume)*
+  - [stones_volume_before.jpg](texture_test/stones_volume_before.JPG) — ⚖️ *Stone volume before immersion (raw measure)*
+  - [stones_volume_after.jpg](texture_test/stones_volume_after.JPG) — ⚖️ *Stone volume after immersion (displaced volume)*
   - [texture_graphic.jpg](texture_test/texture_graphic.jpg) — 📊 *Textural composition diagram (sand, silt, clay)*
-  - [texture_test.jpg](texture_test/texture_test.jpg) — 🧪 *Visual separation sand/silt/clay in tubes*
+  - [texture_test.jpg](texture_test/texture_test.JPG) — 🧪 *Visual separation sand/silt/clay in tubes*
