@@ -149,3 +149,18 @@ Local fruit trees (chestnut, rustic apple) also suited due to stable structure a
   - [stones_volume_after.jpg](texture_test/stones_volume_after.JPG) — ⚖️ *Stone volume after immersion (displaced volume)*
   - [texture_graphic.jpg](texture_test/texture_graphic.jpg) — 📊 *Textural composition diagram (sand, silt, clay)*
   - [texture_test.jpg](texture_test/texture_test.JPG) — 🧪 *Visual separation sand/silt/clay in tubes*
+ 
+  🔗 Related project:
+
+🔗 Part of the Lyra Ecosystem
+- [Lyra_Leaf_SPAD_Calibration](https://github.com/Jerome-openclassroom/Lyra_Leaf_SPAD_Calibration) – SPAD sensor calibration for estimating chlorophyll density in leaves.
+- [Lyra_LowCost_Soil_Leaf](https://github.com/Jerome-openclassroom/Lyra_LowCost_Soil_Leaf) – Integrated low-cost soil and leaf model for terrestrial primary productivity.
+- [Leaf_Chlorose_CNN_Training](https://github.com/Jerome-openclassroom/Leaf_Chlorose_CNN_Training) – CNN-based classification of chlorotic vs. healthy leaves from scanned images.
+- [TurbiditySensor_OpenScience](https://github.com/Jerome-openclassroom/TurbiditySensor_OpenScience) - A low-cost optical turbidity sensor calibrated in JTU, illustrating an open science approach for accessible, field-based water quality monitoring.
+- [AI_Assisted_Lake_Ecology](https://github.com/Jerome-openclassroom/AI_Assisted_Lake_Ecology) – A full-scale NPP model combining field measurements, physical modeling, and GPT-4o-assisted ecological interpretation. Includes empirical correction for realistic annual productivity in clear lakes.
+- [LimonTree_NPP_Model](https://github.com/Jerome-openclassroom/LimonTree_NPP_Model) — Low-cost water and NPP model for a potted lemon tree.
+- [Lyra_DO_Green_Mesurim](https://github.com/Jerome-openclassroom/Lyra_DO_Green_Mesurim) - A low-tech protocol combining MesurimPro and ImageJ to estimate chlorophyll levels from scanned leaves, with validation against SPAD readings and AI-assisted correlation analysis.
+  
+## 🔖 License
+MIT License – open science, open ecology.
+
