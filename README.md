@@ -110,7 +110,7 @@ Local fruit trees (chestnut, rustic apple) also suited due to stable structure a
 ## 📂 Project Structure with Links & Descriptions 
 
 - 📁 [**color/**](color/)
-  - [color_chart.PNG](color/color_chart.PNG) — 🎨 *Simplified Munsell color chart for reference*
+  - [color_chart.png](color/color_chart.png) — 🎨 *Simplified Munsell color chart for reference*
   - [soil_color.JPG](color/soil_color.JPG) — 🏷️ *Photo of dry soil, natural color for pedological description*
 
 - 📁 [**garden/**](garden/)
