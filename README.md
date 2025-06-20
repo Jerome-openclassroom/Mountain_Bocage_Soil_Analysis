@@ -106,6 +106,8 @@ Following the refined manual separation, two distinct magnetite grain size class
 
 This clear bimodal distribution indicates a dominant population of larger primary magnetite grains, directly inherited from the local basaltic bedrock, and a smaller, more homogeneous fraction produced by mechanical breakdown and colluvial transport processes. Together, these measurements support the conclusion that the soil's magnetic behavior originates mainly from natural volcanic magnetite rather than artificial metallic contamination.
 
+The native magnetite grains found in this soil likely formed during Miocene to Pliocene volcanic events (approx. 7 to 2.5 million years ago) when basaltic lava flows cooled below the Curie point, recording the ancient geomagnetic field direction and preserving this signature to this day.
+
 ### GENERAL CONCLUSIONS 
 
 ## Risks
