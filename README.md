@@ -109,6 +109,7 @@ This clear bimodal distribution indicates a dominant population of larger primar
 The native magnetite grains found in this soil likely formed during Miocene to Pliocene volcanic events (approx. 7 to 2.5 million years ago) when basaltic lava flows cooled below the Curie point, recording the ancient geomagnetic field direction and preserving this signature to this day.
 
 **Note on magnetite micro-aggregates and texture tests:**  
+
 In soils with significant native magnetite grains, these particles can form micro-aggregates at sub-millimeter scale through residual magnetic attraction. Unlike chemical bonds, these physical bonds are unaffected by standard dispersants like NaOH. This hidden cohesion may hinder the full breakdown of the clay-humic complex during Lamotte or hydrometer texture tests, leading to an underestimation of clay fraction. A magnetic pre-treatment or correction may be advisable in magnetite-rich soils.
 
 **Speculative Hypothesis:**
