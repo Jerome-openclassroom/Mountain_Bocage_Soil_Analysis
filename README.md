@@ -99,7 +99,7 @@ To confirm this behavior at a finer scale, the magnetically responsive grains we
 This experiment demonstrates that the soil contains a significant fraction of ferromagnetic grains (magnetite Fe₃O₄), most likely native volcanic magnetite derived from the local basaltic bedrock, with a possible minor contribution from historical tool abrasion. This fraction can influence soil physical properties and provides a direct minero-pedological fingerprint of the site's volcanic heritage.
 This strongly supports the hypothesis that the basalt not only provides the magnetic fraction but also supplies iron, magnesium and silica for the secondary formation of smectite clays, which explains the soil’s high swelling capacity and elevated CEC.
 
-Following a refined manual separation, two distinct magnetite grain size classes were confirmed using ImageJ:
+Following the refined manual separation, two distinct magnetite grain size classes were confirmed using ImageJ:
 
 - **Class 1:** mean ≈ 69.4 µm, SD ≈ 18 µm (range: 49.9–113.2 µm)
 - **Class 2:** mean ≈ 24.8 µm, SD ≈ 4.9 µm (range: 17.9–31.6 µm)
