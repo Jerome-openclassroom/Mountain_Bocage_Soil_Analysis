@@ -1,0 +1,43 @@
+{
+    "videos": [
+        {
+            "filename": "spoon_test_film.mp4",
+            "title": "Spoon Test Control",
+            "description": "Control film showing that passing a metal spoon under the paper does not produce striation, ruling out mechanical artefact. Confirms that only magnetic field affects the grains.",
+            "date": "2025-06-18",
+            "author": "Jerome Frasson",
+            "license": "CC BY-NC-SA 4.0",
+            "format": "mp4",
+            "resolution": "640x480",
+            "frame_rate": "15 fps",
+            "duration_seconds": 16,
+            "related_experiment": "Magnetic Fraction Test"
+        },
+        {
+            "filename": "magnet_test_film.mp4",
+            "title": "Magnet Test Live",
+            "description": "Live demonstration showing magnetic alignment and clustering of soil grains on paper as a magnet is moved underneath.",
+            "date": "2025-06-18",
+            "author": "Jerome Frasson",
+            "license": "CC BY-NC-SA 4.0",
+            "format": "mp4",
+            "resolution": "640x480",
+            "frame_rate": "15 fps",
+            "duration_seconds": 48,
+            "related_experiment": "Magnetic Fraction Test"
+        },
+        {
+            "filename": "turning_magnetites_film.mp4",
+            "title": "Turning Magnetites (100\u00d7)",
+            "description": "Close-up film at 100\u00d7 magnification showing magnetite grains moving, rotating, and self-assembling dynamically under a moving magnetic field in water.",
+            "date": "2025-06-18",
+            "author": "Jerome Frasson",
+            "license": "CC BY-NC-SA 4.0",
+            "format": "mp4",
+            "resolution": "640x480",
+            "frame_rate": "15 fps",
+            "duration_seconds": 22,
+            "related_experiment": "Magnetic Fraction Test"
+        }
+    ]
+}
