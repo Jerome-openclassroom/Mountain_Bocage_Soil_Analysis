@@ -90,6 +90,15 @@ This indicates moderate exchangeable acidity, typical of an active clay-humic co
 
 **CEC estimate:** Based on texture (35% swelling clay), measured surface (~80–100 m²/g), ΔpH (0.7) and organic enrichment, the inferred CEC is 40–50 meq/100g → high to very high fertility.
 
+## 🧲 Magnetic Fraction — Observation and Interpretation
+
+During routine rinsing of the beaker after soil texture and pH tests, small black particles were observed to adhere strongly to the magnetic stir bar, unlike the reddish iron colloids that remained unaffected by a handheld magnet. To investigate, a simple field protocol was implemented: the soil was dry-sieved through a fine mesh (<1 mm) directly over a white sheet of paper. A strong magnet was then passed beneath the paper, which revealed clear magnetic patterns and trails, proving that a portion of the fine fraction is responsive to a magnetic field.
+
+To confirm this behavior at a finer scale, the magnetically responsive grains were collected by successive passes, lightly moistened with a drop of water, and transferred drop by drop onto a microscope slide. Under a stereomicroscope (40× magnification) and direct incident light, these grains were examined while a magnet was moved nearby. The particles aligned into straight chains, behaving like tiny compass needles, and displayed a black color with mostly rounded or slightly irregular shapes. 
+
+This experiment demonstrates that the soil contains a significant fraction of ferromagnetic grains, most likely native volcanic magnetite derived from the local basaltic bedrock, with a possible minor contribution from historical tool abrasion. This fraction can influence soil physical properties and provides a direct minero-pedological fingerprint of the site's volcanic heritage.
+
+
 ## Risks
 
 - Possible aluminium toxicity if severe erosion exposes acidic granite horizons, but low risk due to dense vegetation cover.
@@ -100,6 +109,8 @@ This indicates moderate exchangeable acidity, typical of an active clay-humic co
 High swelling clay (smectite) content and ferric oxide colloids suggest colluvial translocation from upslope forest, enriching the plot via runoff from the orange eluviated E horizon (acidic pH 5.5).
 
 The abundance of smectites results from double origin: weathering of volcanic bedrock (basalts, phonolites) in a humid mid-mountain climate, plus enrichment by colluvial clay from upslope acidic forest slopes. This synergy explains the swelling properties and high CEC of this meadow-bocage horizon.
+
+
 
 ## Recommendations
 
