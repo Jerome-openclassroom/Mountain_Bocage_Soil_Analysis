@@ -169,7 +169,20 @@ Local fruit trees (chestnut, rustic apple) also suited due to stable structure a
   - [stones_volume_after.jpg](texture_test/stones_volume_after.JPG) — ⚖️ *Stone volume after immersion (displaced volume)*
   - [texture_graphic.jpg](texture_test/texture_graphic.jpg) — 📊 *Textural composition diagram (sand, silt, clay)*
   - [texture_test.jpg](texture_test/texture_test.JPG) — 🧪 *Visual separation sand/silt/clay in tubes*
- 
+
+ - 📁 **magnetites/**
+  - [before_magnet_test.jpg](magnetites/before_magnet_test.jpg) — 🗂️ Soil spread on paper **before** applying the magnet
+  - [after_magnet_test.jpg](magnetites/after_magnet_test.jpg) — 🧲 Soil pattern **after** passing the magnet: visible magnetic trails
+  - [aligned_magnetites_X40.jpg](magnetites/aligned_magnetites_X40.jpg) — 🔬 Microscopy X40: aligned magnetite grains (annotated)
+  - [aligned_magnetites_X100.jpg](magnetites/aligned_magnetites_X100.jpg) — 🔬 Microscopy X100: detailed view showing magnetite with quartz & feldspar
+  - [class_1_magnetites_in_micron.png](magnetites/class_1_magnetites_in_micron.png) — 📏 ImageJ size stats: **Class 1** (coarse grains)
+  - [class_2_magnetites_in_micron.png](magnetites/class_2_magnetites_in_micron.png) — 📏 ImageJ size stats: **Class 2** (fine grains)
+  - [X40.jpg](magnetites/X40.jpg) — 🎛️ Raw calibration image for ImageJ scale (40×)
+  - [X100.jpg](magnetites/X100.jpg) — 🎛️ Raw calibration image for ImageJ scale (100×)
+  - [spoon_test_film.mp4](magnetites/spoon_test_film.mp4) — 🍽️ Control film: shows a spoon does **not** produce striation → rules out mechanical artefact
+  - [magnet_test_film.mp4](magnetites/magnet_test_film.mp4) — 🎥 Live film: soil reacting in real time to the moving magnet
+  - [turning_magnetites_film.mp4](magnetites/turning_magnetites_film.mp4) — 🎥 Close-up film: magnetite grains turning & clustering dynamically under field
+
   🔗 Related project:
 
 🔗 Part of the Lyra Ecosystem
