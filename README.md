@@ -98,6 +98,7 @@ To confirm this behavior at a finer scale, the magnetically responsive grains we
 
 This experiment demonstrates that the soil contains a significant fraction of ferromagnetic grains, most likely native volcanic magnetite derived from the local basaltic bedrock, with a possible minor contribution from historical tool abrasion. This fraction can influence soil physical properties and provides a direct minero-pedological fingerprint of the site's volcanic heritage.
 
+### GENERAL CONCLUSIONS 
 
 ## Risks
 
