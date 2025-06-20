@@ -182,6 +182,7 @@ Local fruit trees (chestnut, rustic apple) also suited due to stable structure a
    - [spoon_test_film.mp4](magnetites/spoon_test_film.mp4) — 🍽️ *Control film: shows a spoon does **not** produce striation → rules out mechanical artefact*
    - [magnet_test_film.mp4](magnetites/magnet_test_film.mp4) — 🎥 *Live film: soil reacting in real time to the moving magnet*
    - [turning_magnetites_film.mp4](magnetites/turning_magnetites_film.mp4) — 🎥 *Close-up film: magnetite grains turning & clustering dynamically under field*
+   - [metadata.json](magnetites/metadata.json) — 📄 *Descriptive metadata for all magnetite test films (resolution, frame rate, duration, context)*
 
   🔗 Related project:
 
