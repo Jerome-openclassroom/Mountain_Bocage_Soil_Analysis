@@ -170,7 +170,7 @@ Local fruit trees (chestnut, rustic apple) also suited due to stable structure a
   - [texture_graphic.jpg](texture_test/texture_graphic.jpg) — 📊 *Textural composition diagram (sand, silt, clay)*
   - [texture_test.jpg](texture_test/texture_test.JPG) — 🧪 *Visual separation sand/silt/clay in tubes*
 
- - 📁 **magnetites/**
+ - 📁 [**magnetites/**](magnetites/)
   - [before_magnet_test.jpg](magnetites/before_magnet_test.JPG) — 🗂️ Soil spread on paper **before** applying the magnet
   - [after_magnet_test.jpg](magnetites/after_magnet_test.JPG) — 🧲 Soil pattern **after** passing the magnet: visible magnetic trails
   - [aligned_magnetites_X40.jpg](magnetites/aligned_magnetites_X40.JPG) — 🔬 Microscopy X40: aligned magnetite grains (annotated)
