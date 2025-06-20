@@ -97,6 +97,7 @@ During routine rinsing of the beaker after soil texture and pH tests, small blac
 To confirm this behavior at a finer scale, the magnetically responsive grains were collected by successive passes, lightly moistened with a drop of water, and transferred drop by drop onto a microscope slide. Under a microscope (40× magnification) and direct incident light, these grains were examined while a magnet was moved nearby. The particles aligned into straight chains, behaving like tiny compass needles, and displayed a black color with mostly rounded or slightly irregular shapes. 
 
 This experiment demonstrates that the soil contains a significant fraction of ferromagnetic grains, most likely native volcanic magnetite derived from the local basaltic bedrock, with a possible minor contribution from historical tool abrasion. This fraction can influence soil physical properties and provides a direct minero-pedological fingerprint of the site's volcanic heritage.
+This strongly supports the hypothesis that the basalt not only provides the magnetic fraction but also supplies iron, magnesium and silica for the secondary formation of smectite clays, which explains the soil’s high swelling capacity and elevated CEC.
 
 ### GENERAL CONCLUSIONS 
 
