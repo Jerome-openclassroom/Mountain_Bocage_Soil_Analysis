@@ -171,17 +171,17 @@ Local fruit trees (chestnut, rustic apple) also suited due to stable structure a
   - [texture_test.jpg](texture_test/texture_test.JPG) — 🧪 *Visual separation sand/silt/clay in tubes*
 
  - 📁 [**magnetites/**](magnetites/)
-  - [before_magnet_test.jpg](magnetites/before_magnet_test.JPG) — 🗂️ *Soil spread on paper **before** applying the magnet*
-  - [after_magnet_test.jpg](magnetites/after_magnet_test.JPG) — 🧲 *Soil pattern **after** passing the magnet: visible magnetic trails*
-  - [aligned_magnetites_X40.jpg](magnetites/aligned_magnetites_X40.JPG) — 🔬 *Microscopy X40: aligned magnetite grains (annotated)
-  - [aligned_magnetites_X100.jpg](magnetites/aligned_magnetites_X100.JPG) — 🔬 *Microscopy X100: detailed view showing magnetite with quartz & feldspar*
-  - [class_1_magnetites_in_micron.png](magnetites/class_1_magnetites_in_micron.png) — 📏 *ImageJ size stats: **Class 1** (coarse grains)*
-  - [class_2_magnetites_in_micron.png](magnetites/class_2_magnetites_in_micron.png) — 📏 *ImageJ size stats: **Class 2** (fine grains)*
-  - [X40.jpg](magnetites/X40.JPG) — 🎛️ *Raw calibration image for ImageJ scale (40×) millimeter graph paper*
-  - [X100.jpg](magnetites/X100.JPG) — 🎛️ *Raw calibration image for ImageJ scale (100×) millimeter graph paper*
-  - [spoon_test_film.mp4](magnetites/spoon_test_film.mp4) — 🍽️ *Control film: shows a spoon does **not** produce striation → rules out mechanical artefact*
-  - [magnet_test_film.mp4](magnetites/magnet_test_film.mp4) — 🎥 *Live film: soil reacting in real time to the moving magnet*
-  - [turning_magnetites_film.mp4](magnetites/turning_magnetites_film.mp4) — 🎥 *Close-up film: magnetite grains turning & clustering dynamically under field*
+   - [before_magnet_test.jpg](magnetites/before_magnet_test.JPG) — 🗂️ *Soil spread on paper **before** applying the magnet*
+   - [after_magnet_test.jpg](magnetites/after_magnet_test.JPG) — 🧲 *Soil pattern **after** passing the magnet: visible magnetic trails*
+   - [aligned_magnetites_X40.jpg](magnetites/aligned_magnetites_X40.JPG) — 🔬 *Microscopy X40: aligned magnetite grains (annotated)
+   - [aligned_magnetites_X100.jpg](magnetites/aligned_magnetites_X100.JPG) — 🔬 *Microscopy X100: detailed view showing magnetite with quartz & feldspar*
+   - [class_1_magnetites_in_micron.png](magnetites/class_1_magnetites_in_micron.png) — 📏 *ImageJ size stats: **Class 1** (coarse grains)*
+   - [class_2_magnetites_in_micron.png](magnetites/class_2_magnetites_in_micron.png) — 📏 *ImageJ size stats: **Class 2** (fine grains)*
+   - [X40.jpg](magnetites/X40.JPG) — 🎛️ *Raw calibration image for ImageJ scale (40×) millimeter graph paper*
+   - [X100.jpg](magnetites/X100.JPG) — 🎛️ *Raw calibration image for ImageJ scale (100×) millimeter graph paper*
+   - [spoon_test_film.mp4](magnetites/spoon_test_film.mp4) — 🍽️ *Control film: shows a spoon does **not** produce striation → rules out mechanical artefact*
+   - [magnet_test_film.mp4](magnetites/magnet_test_film.mp4) — 🎥 *Live film: soil reacting in real time to the moving magnet*
+   - [turning_magnetites_film.mp4](magnetites/turning_magnetites_film.mp4) — 🎥 *Close-up film: magnetite grains turning & clustering dynamically under field*
 
   🔗 Related project:
 
