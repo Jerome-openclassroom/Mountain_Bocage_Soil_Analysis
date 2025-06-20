@@ -111,6 +111,15 @@ The native magnetite grains found in this soil likely formed during Miocene to P
 **Note on magnetite micro-aggregates and texture tests:**  
 In soils with significant native magnetite grains, these particles can form micro-aggregates at sub-millimeter scale through residual magnetic attraction. Unlike chemical bonds, these physical bonds are unaffected by standard dispersants like NaOH. This hidden cohesion may hinder the full breakdown of the clay-humic complex during Lamotte or hydrometer texture tests, leading to an underestimation of clay fraction. A magnetic pre-treatment or correction may be advisable in magnetite-rich soils.
 
+**Speculative Hypothesis:**
+
+In soils naturally enriched with mobile native magnetite, heavy rainfall or snowmelt events can temporarily resuspend magnetite grains. Once suspended, these particles align with Earth’s geomagnetic field and self-assemble into micro-scale dipole clusters. This creates subtle, transient magnetic micro-anomalies that can signal the presence of local water accumulation zones (puddles, temporary ponds, seepage pockets).
+
+It is theoretically possible that certain magnetosensitive soil-dwelling species — microfauna or small macrofauna — could exploit these temporary magnetic gradients to detect and navigate towards moist microhabitats. Over evolutionary timescales, this behavior could confer an ecological advantage under fluctuating climate conditions, favoring survival and reproductive success.
+
+This idea remains a speculative research avenue, bridging soil physics, ethology, and evolutionary ecology.
+
+
 
 ### GENERAL CONCLUSIONS 
 
