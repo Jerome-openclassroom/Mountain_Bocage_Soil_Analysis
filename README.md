@@ -208,6 +208,10 @@ Local fruit trees (chestnut, rustic apple) also suited due to stable structure a
    - [turning_magnetites_film.mp4](magnetites/turning_magnetites_film.mp4) — 🎥 *Close-up film: magnetite grains turning & clustering dynamically under field*
    - [metadata.json](magnetites/metadata.json) — 📄 *Descriptive metadata for all magnetite test films (resolution, frame rate, duration, context)*
 
+- 📁 [potash_phosphorus_test/](potash_phosphorus_test/)
+  - [Potash_Phosphorus_test_1.JPG](potash_phosphorus_test/Potash_Phosphorus_test_1.JPG) — 🧪 Potassium tube (orange) and phosphorus tube (blue) showing field test results.
+  - [Potash_Phosphorus_test_2.JPG](potash_phosphorus_test/Potash_Phosphorus_test_2.JPG) — 🧪 Alternate view of both tubes confirming semi-quantitative readings.
+
   🔗 Related project:
 
 🔗 Part of the Lyra Ecosystem
