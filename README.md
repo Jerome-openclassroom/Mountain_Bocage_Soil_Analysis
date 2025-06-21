@@ -131,6 +131,17 @@ It is theoretically possible that certain magnetosensitive soil-dwelling species
 
 This idea remains a speculative research avenue, bridging soil physics, ethology, and evolutionary ecology.
 
+☢️ **Background radiation (Geiger Radex):**
+
+- **Avignon:** ~10 µrem/h (limestone bedrock — very low lithophile content).
+- **Bocage granitic site:** ~30 µrem/h on open soil; **up to 50 µrem/h** measured in granite crevices and rock cavities (localized micro-enrichment, possible radon traps).
+- **Former uranium mine area:** 100–120 µrem/h at surface near old boreholes or sealed galleries (legacy ore body).
+
+**Instrument:** The Radex Geiger counter detects both beta and gamma rays, giving an integrated reading of naturally occurring isotopes (U, Th, K-40) and possible radon progeny near surface cracks.
+
+☢️ **Indoor note:** 
+
+In granite-walled houses typical of the region, radon gas can accumulate if the building is closed for extended periods (especially October to June). This risk is minimized in summer when traditional secondary homes are open and ventilated for holiday occupancy.
 
 
 ### GENERAL CONCLUSIONS 
