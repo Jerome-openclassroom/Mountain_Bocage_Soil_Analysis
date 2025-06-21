@@ -63,6 +63,14 @@ A 1:1 dilution in demineralized water, stirred for one minute, then reverse-filt
 Dip test showed nitrates at 250–300 ppm (high), but no nitrites — indicating good aeration despite high nitrate. However, risk of nitrate leaching to the nearby stream should be monitored.
 Hardness of 250 ppm (Ca + Mg) measured — likely from manure amendments.
 
+**Soil nutrient test results (Lamotte STH-14 Kit):**
+- Potassium: >400 lb/acre (~200 ppm)
+- Phosphorus: ~100 lb/acre (~50 ppm)
+
+**Interpretation:**  
+The soil shows very high exchangeable potassium and sufficient to high phosphorus, fully coherent with regular manure and compost inputs and the presence of high CEC smectitic clays. No immediate need for additional K fertilization; monitor P inputs to prevent excess runoff and eutrophication risk.
+
+
 Clay specific surface area was determined using the methylene blue spot test (AFNOR X31-107 and AFES recommendation):
 - Prepare sieved, dried sample.
 - Mix 10 g in 100 mL demineralized water.
