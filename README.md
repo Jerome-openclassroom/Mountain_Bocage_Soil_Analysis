@@ -64,7 +64,10 @@ Dip test showed nitrates at 250–300 ppm (high), but no nitrites — indicating
 Hardness of 250 ppm (Ca + Mg) measured — likely from manure amendments.
 
 **Soil nutrient test results (Lamotte STH-14 Kit):**
-- Potassium: >400 lb/acre (~200 ppm)
+
+- Potassium: estimated between 400–800 lb/acre (~200–400 ppm).  
+_The standard tube scale reaches 400 lb/acre. By using only half the reagent, the black reference line became visible again, indicating that the true potassium level is above the maximum scale but not fully double._
+
 - Phosphorus: ~100 lb/acre (~50 ppm)
 
 **Interpretation:**  
