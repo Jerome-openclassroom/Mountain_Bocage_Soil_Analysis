@@ -174,7 +174,9 @@ Local fruit trees (chestnut, rustic apple) also suited due to stable structure a
 - 📁 [**garden/**](garden/)
   - [garden_1.jpg](garden/garden_1.jpg) — 🌿 *General view of the garden (southwest side)*
   - [garden_2.jpg](garden/garden_2.jpg) — 🌿 *Second angle of the garden, showing crop diversity*
-
+  - [potatoes_garden.JPG](garden/potatoes_garden.JPG) — 🥔 *Potato bed at harvest stage, showing soil tilth and bocage vegetation.*
+  - [potatoes_sharing.JPG](garden/potatoes_sharing.JPG) — 🥔 *Weighing and sharing the harvest — a tangible result of healthy bocage soil.*
+    
 - 📁 [**H2O2_Acid_stability/**](H2O2_Acid_stability/)
   - [organic_carbonates_test.jpg](H2O2_Acid_stability/organic_carbonates_test.JPG) — ⚗️ *Acid test (carbonates) & H₂O₂ test (oxidizable organic matter)*
   - [structural_stability.jpg](H2O2_Acid_stability/structural_stability.JPG) — 💧 *Structural stability test (aggregate intact in water)*
