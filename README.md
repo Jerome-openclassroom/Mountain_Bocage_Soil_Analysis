@@ -167,7 +167,7 @@ In granite-walled houses typical of the region, radon gas can accumulate if the 
 
 - Heavy rainfall events flush fresh animal droppings into the soil.  
 - Rapid infiltration through a thin filter layer and fissured rock carries bacteria directly to the catchment zone.
-> ✅ Note: Since the spring water is not chlorinated or treated with aluminium-based coagulants, any aluminium detected in tap water directly reflects natural substrate mobilization (e.g. E horizon leaching, exposed phonolithe or granite weathering).
+
 
 
 
@@ -198,6 +198,7 @@ In granite-walled houses typical of the region, radon gas can accumulate if the 
 - **Conclusion:** 
   - **Chronic aluminium risk is negligible.**
   - **Temporary spikes possible after severe forest blowdown and heavy rain.**
+> ✅ Note: Since the spring water is not chlorinated or treated with aluminium-based coagulants, any aluminium detected in tap water would directly reflects natural substrate mobilization (e.g. E horizon leaching, exposed phonolithe or granite weathering).
 
 
 ### GENERAL CONCLUSIONS 
