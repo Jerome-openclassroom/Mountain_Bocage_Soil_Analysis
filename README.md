@@ -143,6 +143,38 @@ This idea remains a speculative research avenue, bridging soil physics, ethology
 
 In granite-walled houses typical of the region, radon gas can accumulate if the building is closed for extended periods (especially October to June). This risk is minimized in summer when traditional secondary homes are open and ventilated for holiday occupancy.
 
+### 💧🦌🌧️ Water Quality Issue – E. coli contamination in Meygal spring catchments
+
+**Context:**  
+- The domestic water supply comes from shallow underground catchments in the Meygal volcanic-granitic massif.  
+- These catchments are **not chlorinated** — water safety relies entirely on the natural filtering capacity of the soil and bedrock.
+
+**Natural conditions:**  
+- The local soil (Meygal) is **coarse-textured and low in clay**, with a thin humic layer → inherently **poor filtration capacity**.  
+- The bedrock is fissured volcanic and granitic, allowing rapid infiltration and low residence time.
+
+**Recent aggravating factors:**  
+- 🌧️ **Climate trend:** more intense and concentrated summer rain events lead to rapid surface runoff and infiltration, bypassing the soil’s limited natural filter.  
+- 🦌 **Wildlife trend:** significant increase in deer and wild boar density over the last decade → more fecal matter on forest floors near the recharge areas.  
+  - Direct observation: cervids frequently seen at ~10-20 m from houses and in the forest, indicating low avoidance and high local population.
+
+**Mechanism:**  
+- Heavy rainfall events flush fresh animal droppings into the soil.  
+- Rapid infiltration through a thin filter layer and fissured rock carries bacteria directly to the catchment zone.  
+- No chlorination means there is **no final disinfection barrier**.
+
+**Impact:**  
+- Temporary presence of **E. coli** in tap water after major storms, causing mild to moderate gastro-intestinal risks for people not accustomed to it.  
+- Unpleasant taste typical of low-mineral volcanic spring water with slight natural acidity (CO₂ content) — not a pollution taste but an intrinsic signature.
+
+**Summary & Recommendations:**  
+✅ **Key vulnerability:** combination of **low natural soil filtration, increased wildlife fecal load, and more intense rain events**.  
+✅ **Practical advice:**  
+   - After major rainfall, **boil the water** for drinking or use an **alternative safe source**.  
+   - Consider installing a **gravity-fed filter system (e.g., Berkey)** for daily tap water — effective against coliform bacteria and improves taste.
+
+> *This section documents the hydrological, pedological and ecological factors behind recent E. coli contamination events in the Meygal massif — bridging field observations with microbiological risk and low-tech mitigation.*
+
 
 ### GENERAL CONCLUSIONS 
 
