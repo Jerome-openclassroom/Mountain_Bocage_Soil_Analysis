@@ -175,6 +175,21 @@ In granite-walled houses typical of the region, radon gas can accumulate if the 
 
 > *This section documents the hydrological, pedological and ecological factors behind recent E. coli contamination events in the Meygal massif — bridging field observations with microbiological risk and low-tech mitigation.*
 
+### ⚠️ Aluminium peak risk – exceptional forest damage scenario
+
+- **Background:** Under stable forest cover, granite bedrock and poor clay content make aluminium naturally present but immobilized.
+- **Event-based risk:** In early 80's, a local microburst (severe downburst) uprooted trees over several hectares, exposing raw soil and fragile horizons.
+- **Mechanism:** 
+  - Freshly exposed E and C horizons release more soluble aluminium under rainfall.
+  - If followed by heavy rain, aluminium can leach quickly into shallow catchments.
+  - No chlorination means the trace aluminium peak reaches tap water directly.
+- **Modern context:** 
+  - Rain acidity lower today than in the 1980s.
+  - However, climate change may increase violent storm frequency.
+- **Conclusion:** 
+  - **Chronic aluminium risk is negligible.**
+  - **Temporary spikes possible after severe forest blowdown and heavy rain.**
+
 
 ### GENERAL CONCLUSIONS 
 
