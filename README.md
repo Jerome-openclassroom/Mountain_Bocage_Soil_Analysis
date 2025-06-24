@@ -1,3 +1,5 @@
+![Field Proven](https://img.shields.io/badge/Field%20Proven-✓-blue) 
+![Open Science](https://img.shields.io/badge/Open%20Science-✓-brightgreen)
 
 # 📑 Soil Analysis Report 
 
