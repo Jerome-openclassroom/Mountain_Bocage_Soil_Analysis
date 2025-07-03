@@ -239,15 +239,22 @@ Local fruit trees (chestnut, rustic apple) also suited due to stable structure a
 
 ## 📂 Project Structure with Links & Descriptions 
 
-- 📁 [**color/**](color/)
-  - [color_chart.png](color/color_chart.png) — 🎨 *Simplified Munsell color chart for reference*
-  - [soil_color.jpg](color/soil_color.JPG) — 🏷️ *Photo of dry soil, natural color for pedological description*
-
+- 📁 [**site_location/**](site_location/)
+  - [East.jpg](site_location/East.png) — 🗺️ *Topographic profile to the east (graph)*
+  - [East_real.jpg](site_location/East_real.JPG) — 🏞️ *Actual photo of the east-facing slope*
+  - [general_view.jpg](site_location/general_view.jpg) — 🌍 *3D view of the site (Google Earth)*
+  - [North_East.jpg](site_location/North_East.png) — 🗺️ *Topographic profile to the northeast (graph)*
+    
 - 📁 [**garden/**](garden/)
   - [garden_1.jpg](garden/garden_1.jpg) — 🌿 *General view of the garden (southwest side)*
   - [garden_2.jpg](garden/garden_2.jpg) — 🌿 *Second angle of the garden, showing crop diversity*
   - [potatoes_garden.jpg](garden/potatoes_garden.JPG) — 🥔 *Potato bed at harvest stage, showing soil tilth and bocage vegetation.*
   - [potatoes_sharing.jpg](garden/potatoes_sharing.JPG) — 🥔 *Weighing and sharing the harvest — a tangible result of healthy bocage soil.*
+
+- 📁 [**color/**](color/)
+  - [color_chart.png](color/color_chart.png) — 🎨 *Simplified Munsell color chart for reference*
+  - [soil_color.jpg](color/soil_color.JPG) — 🏷️ *Photo of dry soil, natural color for pedological description*
+
     
 - 📁 [**H2O2_Acid_stability/**](H2O2_Acid_stability/)
   - [organic_carbonates_test.jpg](H2O2_Acid_stability/organic_carbonates_test.JPG) — ⚗️ *Acid test (carbonates) & H₂O₂ test (oxidizable organic matter)*
@@ -259,12 +266,6 @@ Local fruit trees (chestnut, rustic apple) also suited due to stable structure a
 
 - 📁 [**pH_test/**](pH_test/)
   - [pH_test.jpg](pH_test/pH_test.JPG) — ⚙️ *pH measurement setup: beaker, stir bar, agitation*
-
-- 📁 [**site_location/**](site_location/)
-  - [East.jpg](site_location/East.png) — 🗺️ *Topographic profile to the east (graph)*
-  - [East_real.jpg](site_location/East_real.JPG) — 🏞️ *Actual photo of the east-facing slope*
-  - [general_view.jpg](site_location/general_view.jpg) — 🌍 *3D view of the site (Google Earth)*
-  - [North_East.jpg](site_location/North_East.png) — 🗺️ *Topographic profile to the northeast (graph)*
 
 - 📁 [**stain_test/**](stain_test/)
   - [1_12mL.jpg](stain_test/1_12mL.jpg) — 🧪 *Methylene blue spot test on filter paper (1–12 mL total)*
