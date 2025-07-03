@@ -300,6 +300,14 @@ Local fruit trees (chestnut, rustic apple) also suited due to stable structure a
   - [Potash_Phosphorus_test_1.JPG](potash_phosphorus_test/Potash_Phosphorus_test_1.JPG) — 🧪 *Potassium tube (orange) and phosphorus tube (blue) showing field test results*
   - [Potash_Phosphorus_test_2.JPG](potash_phosphorus_test/Potash_Phosphorus_test_2.JPG) — 🧪 *Alternate view of both tubes confirming semi-quantitative readings*
 
+
+- 📁 [**soil_microbiology/**](soil_microbiology/)
+  - [scale_900_1000_nm_circles.jpg](soil_microbiology/scale_900_1000_nm_circles.jpg) — 🎯 *Calibration scale: 900 and 1000 nm diameter reference circles*
+  - [streptomyces_1.jpg](soil_microbiology/streptomyces_1.jpg) — 🧫 *Filamentous microbial network (Streptomyces suspected)*
+  - [streptomyces_2.jpg](soil_microbiology/streptomyces_2.jpg) — 🧪 *Dense mycelial growth within agar matrix*
+  - [streptomyces_3.jpg](soil_microbiology/streptomyces_3.jpg) — 🔬 *Peripheral zone with dispersed filaments*
+  - [USB_microscope.jpg](soil_microbiology/USB_microscope.jpg) — 💡 *Observation setup with USB microscope and agar plate*
+
   🔗 Related project:
 
 🔗 Part of the Lyra Ecosystem
