@@ -103,6 +103,21 @@ This indicates moderate exchangeable acidity, typical of an active clay-humic co
 
 **CEC estimate:** Based on texture (35% swelling clay), measured surface (~80–100 m²/g), ΔpH (0.7) and organic enrichment, the inferred CEC is 40–50 meq/100g → high to very high fertility.
 
+## Microbial Observation – Soil from Haute-Loire (site 1060 m)
+
+An enriched agar medium (agar, starch, yeast, vitamins) was inoculated with sieved soil (1 mm mesh).  
+After 7 days at room temperature, a white filamentous network developed within the matrix, accompanied by a distinct earthy/geosmin odor.
+
+Images captured with a USB microscope suggest the presence of actinomycetes, most likely from the **Streptomyces** genus.
+
+![USB microscope observation setup](soil_microbiology/USB_microscope.JPG)
+
+> 💬 *Note:* The fragmented or partitioned appearance of the surface is due to the addition of a few drops of water during sample setup.  
+> This effect structured the surface unintentionally and has no experimental significance.
+
+This microbial observation complements the macroscopic and physico-chemical analysis of the site with a simple but demonstrative biological signature.
+
+
 ## 🧲 Magnetic Fraction — Observation and Interpretation
 
 During routine rinsing of the beaker after soil texture and pH tests, small black particles were observed to adhere strongly to the magnetic stir bar, unlike the reddish iron colloids that remained unaffected by a handheld magnet. To investigate, a simple field protocol was implemented: the soil was dry-sieved through a fine mesh (<1 mm) directly over a white sheet of paper. A strong magnet was then passed beneath the paper, which revealed clear magnetic patterns and trails, proving that a portion of the fine fraction is responsive to a magnetic field.
